@@ -1,0 +1,7 @@
+LightMeter
+For the DIY Gamer kit by twsu.
+Written by Jaap Scherphuis, 2014-09-22; diygamer@jaapsch.net
+Updated 2015-11-29 to remove the number display routine, as it has now become part of the Gamer library.
+
+This program measures the light level, and displays it as a number in the range 0-99.
+

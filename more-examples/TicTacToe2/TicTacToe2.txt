@@ -1,0 +1,17 @@
+TicTacToe2
+For the DIY Gamer kit by twsu.
+Written by Jaap Scherphuis, 2014-10-05; diygamer@jaapsch.net
+
+Based on GamerTicTacToe1P from twsu.
+
+A Tic-Tac-Toe or Noughts & Crosses game, played against the DIY-gamer.
+
+Move the flashing cursor with the arrow buttons to an empty spot,
+and press the Start button to place your piece. The Gamer will then
+immediately play its move.
+
+You can quit a game prematurely by pressing Up and Start simultaneously.
+If you want the Gamer to make the next move, then press Down and Start
+simultaneously. This is especially useful at the start of the game, if you
+want the Gamer to make the first move.
+

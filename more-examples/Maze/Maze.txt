@@ -1,0 +1,18 @@
+Maze
+For the DIY Gamer kit by twsu.
+Written by Jaap Scherphuis, 2014-09-22; diygamer@jaapsch.net
+
+
+This is a scrolling maze game in which you have to travel from the top-left
+corner of a maze to the bottom-right corner. The screen shows you in the
+centre of the screen, with the maze all around you. Press one of the direction
+buttons to start moving in that direction, if that is possible.
+
+If you reach the opposite corner, a new random maze will be generated.
+
+If you find the maze too small, you can try the source code given maze.inobig,
+which generates a larger maze. Note that it takes a while to generate such a
+large maze, so a progress 'bar' is shown during generation.
+
+
+

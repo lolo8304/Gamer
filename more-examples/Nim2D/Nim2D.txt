@@ -1,0 +1,28 @@
+Nim 2D
+For the DIY Gamer kit by twsu.
+Written by Jaap Scherphuis, 2014-10-05; diygamer@jaapsch.net
+
+A two-dimensional Nim game, played against the DIY-gamer.
+
+The game board consists of a 4x4 grid of pieces (each displayed as a
+2x2 square of pixels). A turn consists of removing a 1xN or Nx1 rectangle
+of pieces, where N is any number from 1 to 4. The player to take the
+last piece wins the game.
+
+When it is your turn, move the flashing cursor using the buttons. Select
+a piece that is one end of the rectangle you want to remove, and press the
+Start button. Move the cursor to the other end of the rectangle you want
+to remove, and press Start again. The move is then performed, removing the
+selected rectangle.
+
+The Gamer will then calculate its move. While it is contemplating, the
+red LED lights up.
+
+If you take the last piece and win, a spiral animation will be shown.
+If the Gamer takes the last piece, you lose and a vertical wipe animation
+is shown. The game then restarts.
+
+You can quit a game prematurely by pressing Up and Start simultaneously.
+If you want the Gamer to make the next move, then press Down and Start
+simultaneously. This is especially useful at the start of the game, if you
+want the Gamer to make the first move.

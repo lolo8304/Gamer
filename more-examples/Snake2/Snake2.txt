@@ -1,0 +1,22 @@
+Snake2
+For the DIY Gamer kit by twsu.
+Written by Jaap Scherphuis, 2014-09-22; diygamer@jaapsch.net
+Updated 2015-11-29.
+
+An improved version of the Snake example game supplied with the DIY-gamer.
+
+Move the snake around using the direction buttons. Note that the screen wraps
+around. Try to eat as much as you can to grow the snake as long as possible.
+If you eat yourself, however, then the game ends.
+
+
+The main improvements are:
+ - Rewritten and improved scrolling text routine, with redesigned letter font.
+ - Shortened score display routine and redesigned digit font.
+ - Several parts rewritten to be shorter and/or clearer.
+ - Removed unused code
+ - Fixed bug to allow food to appear on 8th column or row.
+
+Update:
+- Removed scrolling text routine an score display routine as they have become
+   part of the Gamer library.

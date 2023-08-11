@@ -1,0 +1,41 @@
+LightsOut
+For the DIY Gamer kit by twsu.
+Written by Jaap Scherphuis, 2014-09-21; diygamer@jaapsch.net
+
+
+This is a puzzle game in which you have to switch off all the lights.
+
+
+Level Selection
+
+The opening screen displays LVL and the current level number. You can use
+the UP and DOWN buttons to select a different level if you so desire. Press
+START to begin play.
+
+
+Game Play
+
+Use the direction buttons to move the cursor around, and press the START
+button to make a move at the cursor location. The effect of a move is to
+toggle the light at the cursor location, as well as the lights that are
+vertically or horizontally adjacent.
+
+You can abort the game and return to the level selection screen by pressing
+three or more buttons simultaneously.
+
+
+End of Game
+
+If you switch off all the lights, one of three things will happen depending
+on how many moves you needed.
+
+- A perfect solve: A spiral animation is shown, and you progress to the next
+                level automatically. The level selection screen is displayed.
+
+- Solve within 16 moves of optimal: A number of squares in lit up in the top
+                two rows, showing how many surplus moves you used. The level
+                selection screen is displayed, with the same level number as
+                before, so you can play another equally hard pattern.
+
+- Solve with more than 16 unnecessary moves: A big X is shown, and you then
+                get the same pattern to solve again.
